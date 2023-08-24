@@ -1529,7 +1529,7 @@
 				<key>SystemAudioVolume</key>
 				<data>Rg==</data>
 				<key>boot-args</key>
-				<string>-v debug=0x44 npci=0x2000 alcid=33</string>
+				<string>-v debug=0x44 npci=0x2000 alcid=33 revblock=media</string>
 				<key>csr-active-config</key>
 				<data>AQAAAA==</data>
 				<key>prev-lang:kbd</key>
